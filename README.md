@@ -42,18 +42,18 @@ Steps Taken:
 
 Performance of the Model
 
-  R-squared: This metric indicates how well the model's predictions explain the variability of the actual sales data. An R-squared value closer to 1 implies a 
+    R-squared: This metric indicates how well the model's predictions explain the variability of the actual sales data. An R-squared value closer to 1 implies a 
              better fit.
   
-  Root Mean Squared Error (RMSE): This metric measures the average magnitude of the prediction errors. Lower values indicate better model performance.
+    Root Mean Squared Error (RMSE): This metric measures the average magnitude of the prediction errors. Lower values indicate better model performance.
 
 Business Impact
   
-  Prediction of Sales: The model helps in predicting future sales based on different advertising budgets, allowing the company to forecast revenue more accurately.
-                       Optimization of Ad Spend: By understanding the impact of each advertising channel on sales, the company can allocate its budget more 
-                       effectively, focusing on the channels with the highest return on investment.
+    Prediction of Sales: The model helps in predicting future sales based on different advertising budgets, allowing the company to forecast revenue more 
+                         accurately.Optimization of Ad Spend: By understanding the impact of each advertising channel on sales, the company can allocate its budget 
+                         more effectively, focusing on the channels with the highest return on investment.
                        
-   Strategic Planning: The insights from the model can assist in strategic planning and decision-making, ultimately leading to more efficient use of resources and 
+    Strategic Planning: The insights from the model can assist in strategic planning and decision-making, ultimately leading to more efficient use of resources and 
                        improved business outcomes.
 
 This linear regression model provides a valuable tool for the company to enhance its advertising strategy, leading to potentially higher sales and better allocation of the advertising budget.
